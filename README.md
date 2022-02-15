@@ -1,7 +1,6 @@
-### Hi there 👋
-rezawahyuadinata/rezawahyuadinata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Halo Semuanya
 
-Here are some ideas to get you started:
+Berikut adalah statistik saya :
 
 <p align="left">
 <a href="https://github.com/dimasmds">
