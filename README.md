@@ -1,4 +1,4 @@
-Halo Semuanya, perkenalkan nama saya reza wahyu adinata saya adalah seorang programmer yang berkeinginan untuk menjadi seorang fullstack developer 
+Halo Semuanya, perkenalkan nama saya reza wahyu adinata. saya adalah seorang programmer yang berkeinginan untuk menjadi seorang fullstack developer 
 
 Berikut adalah statistik saya dalam mengembangkan aplikasi:
 
