@@ -1,6 +1,6 @@
-Halo Semuanya
+Halo Semuanya, perkenalkan nama saya reza wahyu adinata saya adalah seorang programmer yang berkeinginan untuk menjadi seorang fullstack developer 
 
-Berikut adalah statistik saya :
+Berikut adalah statistik saya dalam mengembangkan aplikasi:
 
 <p align="left">
 <a href="https://github.com/rezawahyuadinata">
